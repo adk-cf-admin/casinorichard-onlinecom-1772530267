@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#013C2D",
+            "lang-select-color": "#222829",
+            "bg-light": "#013C2D",
+            "welcome-bonus-bg": "#013C2D",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#027558",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#002d22",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#007d5f",
+            "yellow-button": "#BF9145",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#013C2D",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#013C2D",
+            "faq-label": "#013C2D",
+            "bg-footer": "#013C2D",
+            "copyright": "#e7e7d5",
+            "starColor": "#BF9145",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3744"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3745",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Richard Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3746",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Richard Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Richard Casino",
+                    "title": "Richard Casino — Top Australian Online Casino | A$5,000",
+                    "description": "Play at Richard Casino Australia with 7,000+ pokies, live dealer games & A$5,000 welcome bonus. Licensed, secure, AUD accepted. Join now!\n",
+                    "canonical": "casinorichard-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3747",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinorichard-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3748"
+                },
+                "hero": {
+                    "title": "Australia's Premier Online Casino & Pokies Platform",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3749",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3750",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino for Australian players? We operate under Curaçao Gaming Control Board license (OGL\/2023\/176\/0095), offer 7,000+ certified games on SoftSwiss platform, and support instant AUD deposits. Here's why Aussies choose us:\n",
+                    "items": [
+                        "Licensed by Curaçao GCB (OGL\/2023\/176\/0095) with SSL encryption",
+                        "7,000+ pokies & live dealer games from 50+ certified providers",
+                        "Welcome bonus up to A$5,000 + 300 free spins, min deposit A$30",
+                        "AUD deposits via Visa, Neosurf, Skrill, Crypto — zero fees",
+                        "3% weekly cashback up to A$7,500 + 177-level VIP loyalty program",
+                        "24\/7 live chat support in English, response under 3 minutes"
+                    ],
+                    "advantagesAfterText": "Join thousands of Australian players enjoying certified fair-play gaming audited by independent labs. Our dedicated English-speaking support team is available 24\/7\/365 via live chat and email.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Richard Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3751",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Richard Casino App",
+                    "mobileGooglePlayImageTitle": "Richard Casino App",
+                    "mobileIosImageTitle": "Richard Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Richard Casino Australia",
+                        "description1": "We launched as a premium online gaming platform for Australian players, backed by Hollycorn N.V. with nearly a decade of industry experience. Our SoftSwiss-powered platform delivers 7,000+ games with AUD support and instant payouts.\n",
+                        "items": [
+                            "Launched on SoftSwiss platform with 5,000+ certified games",
+                            "Added full AUD support with zero-fee local deposit methods",
+                            "Introduced 177-level VIP loyalty program for Aussie players",
+                            "Achieved Curaçao GCB license OGL\/2023\/176\/0095 certification"
+                        ],
+                        "description2": "We operate under Curaçao Gaming Control Board license (OGL\/2023\/176\/0095) with SSL 256-bit encryption protecting all AUD transactions. All games run on certified RNG software verified through provider licenses for provably fair outcomes.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3752",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We keep expanding our pokies and live dealer collection for Australian players. Our responsible gambling tools — deposit limits, self-exclusion, and cooling-off periods — keep gaming safe. Join Richard Casino and claim your A$5,000 bonus today!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Pokies & Casino Games Guide for Aussies",
+                        "description": "<h2>Complete Pokies & Casino Games Portfolio at Richard Casino Australia<\/h2>\n\n<p>At Richard Casino, we offer Australian players an unmatched gaming experience with over 7,000 certified titles spanning pokies, live dealer tables, classic table games, and exclusive jackpot slots. Our platform is powered by SoftSwiss — one of the most respected iGaming infrastructure providers — and features games from more than 50 premium developers including Evolution Gaming, Pragmatic Play, NetEnt, Microgaming, Nolimit City, and Hacksaw Gaming. Every game runs on a certified Random Number Generator (RNG), independently verified through provider licences, ensuring provably fair outcomes for every spin, hand, and wager. Whether you're a casual Aussie pokie player or a high-stakes live table enthusiast, our gaming lobby delivers the depth and variety you expect from a world-class online gambling destination.<\/p>\n\n<h3>Pokies Collection — 6,000+ Titles for Australian Players<\/h3>\n\n<p>Pokies are the heart of Richard Casino's game library, and we've built a collection that rivals any Australian gaming platform. With over 6,000 slot titles available, ranging from classic 3-reel fruit machines to feature-rich 6-reel video pokies with cascading reels, cluster pays, and Megaways mechanics, there is always something new to discover. Our pokies lobby includes titles from globally recognised studios such as Pragmatic Play, whose popular Gates of Olympus delivers RTP of 96.5% with max win potential of 5,000x stake, and Nolimit City's xBTW series known for extreme volatility and 50,000x max win potential. For Australian players who enjoy progressive jackpots, our platform hosts must-drop and network jackpot slots where prize pools frequently reach six-figure AUD amounts.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways Pokies:<\/strong> Book of Vikings Megaways (RTP 96.78%), Gonzo's Quest Megaways (RTP 96%), and Buffalo King Megaways (RTP 96.06%) — all with 117,649 ways to win and free spins with increasing multipliers up to 15x. Perfect for Australian players seeking high-volatility action with big win potential.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic Australian-Style Pokies:<\/strong> Traditional 5-reel pokies including Starburst (RTP 96.1%, NetEnt), Book of Dead (RTP 96.21%, Play'n GO), and Reactoonz (RTP 96.51%) — all favourites with Aussie players for their straightforward mechanics and rewarding free spins rounds.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Progressive Jackpot Slots:<\/strong> Mega Moolah by Microgaming — the iconic jackpot pokie with a world-record AUD payout history — alongside Absolootly Mad and Divine Fortune (RTP 96.59%) with local progressive jackpots that reset at guaranteed minimums.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>New Releases Monthly:<\/strong> We add 50–100 new pokie titles every month, including exclusive first-access releases from our provider partners. Australian players get early access to hot new games like Wanted Dead or a Wild, Mental, and Chaos City before most competing platforms.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Demo Mode Available:<\/strong> Every pokie in our library can be played in free demo mode without registration — ideal for Aussie players who want to test RTP, volatility, and bonus features before wagering real AUD.<\/li>\n<\/ul>\n\n<h3>Live Dealer Casino — Real-Time Gaming for Aussies<\/h3>\n\n<p>Our live casino section brings the authentic casino floor experience directly to Australian players, streamed in 4K HD from professional studios operated by Evolution Gaming, Pragmatic Play Live, and Ezugi. With over 200 live tables available 24 hours a day, 7 days a week, you can join a live roulette, blackjack, baccarat, or poker table at any time that suits Australian Eastern, Central, or Western time zones. All live dealers are professionally trained and speak English, creating a welcoming atmosphere for Australian players. Betting limits in our live casino range from as low as A$0.50 per hand to high-roller VIP tables with limits exceeding A$50,000 per round — accommodating every type of Aussie player.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> European Roulette (RTP 97.3%), American Roulette (RTP 94.74%), French Roulette with La Partage rule (RTP 98.65%), Lightning Roulette with multipliers up to 500x, and Immersive Roulette with multi-camera slow-motion ball tracking. Minimum bet from A$0.50.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Classic Blackjack (RTP 99.5%), Infinite Blackjack with unlimited seating, Lightning Blackjack with random card multipliers, and Speed Blackjack for fast-paced rounds. VIP tables available with stakes from A$50 to A$5,000 per hand.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat:<\/strong> Standard Baccarat (RTP 98.94%), Speed Baccarat for quick rounds under 30 seconds, Baccarat Squeeze for added suspense, and No Commission Baccarat with adjusted payout structure. Popular with high-volume Australian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Game Shows:<\/strong> Crazy Time (up to 20,000x max win), Monopoly Live combining board game with live betting, Mega Ball bingo-lottery hybrid, Dream Catcher money wheel, and Deal or No Deal Live — delivering entertainment-focused real-money experiences loved by Aussie players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Poker Tables:<\/strong> Three Card Poker, Casino Hold'em (RTP 97.84%), Caribbean Stud Poker with progressive jackpot reaching A$250,000+, and Texas Hold'em Bonus with side bet options. Professional English-speaking dealers guide every hand.<\/li>\n<\/ul>\n\n<h3>Table Games & Specialty Casino Games<\/h3>\n\n<p>Beyond live dealer action, we offer an extensive RNG-powered table games section ideal for Australian players who prefer to play at their own pace. Our table games library includes over 150 unique variants of roulette, blackjack, baccarat, craps, sic bo, and video poker. Fans of video poker will find titles including Jacks or Better (RTP 99.54%), Deuces Wild (RTP 100.76%), and Double Double Bonus Poker — some of the highest RTP games available in any Australian online gambling environment. Additionally, our scratch card and virtual sports sections provide quick-win options for players seeking instant gratification between main gaming sessions.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #ca9644;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">RTP<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Provider<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #0b3024;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Gates of Olympus<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">96.5%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Pragmatic Play<\/td>\n    <\/tr>\n    <tr style=\"background-color: #114132;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Book of Dead<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">96.21%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Play'n GO<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0b3024;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Starburst<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">96.1%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">NetEnt<\/td>\n    <\/tr>\n    <tr style=\"background-color: #114132;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Mega Moolah<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">88.12%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Microgaming<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0b3024;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Crazy Time<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">96.08%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Evolution<\/td>\n    <\/tr>\n    <tr style=\"background-color: #114132;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Lightning Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">97.3%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Evolution<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0b3024;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Blackjack Classic<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">99.5%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Evolution<\/td>\n    <\/tr>\n    <tr style=\"background-color: #114132;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Gonzo's Quest MW<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">96%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">NetEnt\/Red Tiger<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<h3>Mobile Casino — Play Pokies on Any Device in Australia<\/h3>\n\n<p>Wondering if you can enjoy Richard Casino's full game library on your iPhone or Android? Absolutely — our platform is fully optimised for mobile browsers with no app download required. Australian players can access all 7,000+ pokies and live dealer tables directly from Safari on iOS or Chrome on Android, with touch-friendly controls and fast-loading graphics even on 4G and 5G networks. The mobile interface adapts seamlessly to screen sizes from compact smartphones to tablets, preserving all account features including deposits, withdrawals, bonus claims, and live chat support. For Aussies who prefer gaming on the go — whether on the commute in Sydney or relaxing in Brisbane — our mobile casino delivers desktop-quality performance without compromise.<\/p>\n\n<h3>Tournaments & Seasonal Promotions for Aussie Players<\/h3>\n\n<p>We run regular pokie tournaments and live casino leaderboard competitions exclusively for our Australian community. These seasonal and branded tournaments typically feature prize pools ranging from A$10,000 to A$100,000+, with transparent leaderboards showing real-time rankings. Participation is simple — play qualifying games during the tournament period and earn points for every wager. Our Wheel of Fortune feature rewards active players with free spins, bonus credits, and cashback offers. Tuesday Free Spins promotions provide regular top-ups for Australian players, while our birthday bonus delivers a personalised reward each year. These ongoing promotions complement our flagship 177-level VIP loyalty program, where comp points earned from every AUD wager convert directly into bonus credits, free spins, and exclusive high-roller privileges.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekly Pokie Tournaments:<\/strong> Compete against other Australian players on featured slots with leaderboard prizes distributed to the top 50 finishers. Entry is free with any qualifying wager during the tournament window.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Casino Leaderboards:<\/strong> Monthly live dealer competitions across roulette, blackjack, and baccarat tables with prize pools up to A$50,000 shared among top performers. Available to all registered Australian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Wheel of Fortune Daily Spin:<\/strong> Log in daily to spin our Wheel of Fortune for a chance to win free spins, AUD bonus credits, cashback multipliers, or VIP loyalty point boosts — no wagering required to spin.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>177-Level VIP Program:<\/strong> Our industry-leading loyalty program rewards every AUD wagered with comp points redeemable for bonus credits. Progress through 177 unique VIP tiers to unlock dedicated account managers, higher withdrawal limits, personalised bonuses, and exclusive invitations to live events.<\/li>\n<\/ul>\n\n<h3>Responsible Gambling at Richard Casino for Australian Players<\/h3>\n\n<p>We are committed to providing a safe and responsible gaming environment for all Australian players. Our platform provides a comprehensive set of responsible gambling tools including deposit limits (daily, weekly, monthly), loss limits, session time limits, wager limits, cooling-off periods, and full self-exclusion options — both definite and indefinite. Australian players can request any of these controls through our 24\/7 live chat or email support. We also link to trusted external support organisations relevant to Australian gamblers including Gamblers Anonymous Australia, GamCare, and Gambling Therapy. Parental control tools such as GamBlock and CyberPatrol are recommended for households with minors. Responsible gaming is a core value at Richard Casino, and we encourage all Aussie players to set personal limits before beginning their gaming sessions.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking & Bonus Guide for Australian Players",
+                        "description": "<h2>Complete Banking & Bonus Guide for Australian Players at Richard Casino<\/h2>\n\n<p>At Richard Casino, we've built a comprehensive financial system specifically designed to meet the needs of Australian players, offering seamless AUD deposits, rapid withdrawals, and a multi-tiered bonus structure that rewards both new sign-ups and loyal returning players. Whether you prefer traditional payment methods like Visa and Mastercard, digital wallets such as Skrill and Neosurf, or cutting-edge cryptocurrency options via CoinsPaid supporting Bitcoin, Ethereum, Litecoin, Dogecoin, and USDT across multiple blockchain networks — we have a banking solution tailored for Aussie players. Our minimum deposit for Australian players is just A$30, with zero transaction fees across all supported payment methods, making Richard Casino one of the most accessible real-money gaming platforms available in Australia.<\/p>\n\n<h3>Deposit Methods Available for Australian Players<\/h3>\n\n<p>Making a deposit at Richard Casino from Australia is fast, secure, and completely fee-free. We support instant deposits via all major payment channels used by Aussie players, with funds appearing in your casino account immediately for card payments and e-wallets. Our SSL 256-bit encrypted payment gateway, certified by independent security auditors, protects every AUD transaction you make. The following deposit methods are all available with zero fees and instant processing for Australian players:<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Visa & Mastercard:<\/strong> The most widely used deposit methods for Australian players. Instant processing with min A$30 – max A$5,200 per transaction. Zero fees, no currency conversion charges when depositing AUD directly.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Neosurf Voucher:<\/strong> Extremely popular with Australian players for anonymous, cash-based deposits. Purchase Neosurf vouchers at 30,000+ retail outlets across Australia and redeem instantly online. Min A$30, max A$500 per voucher.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Skrill Digital Wallet:<\/strong> Instant deposits from A$30 to A$5,200 with zero fees. Skrill is widely trusted by Australian online casino players for its fast processing and ease of use. Also available for withdrawals.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>MiFinity eWallet:<\/strong> A growing favourite among Australian players for its straightforward interface and fast processing. Deposit min A$30, max A$1,300. Supports both deposits and withdrawals.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Paysafecard:<\/strong> Prepaid voucher option trusted by Australian players for privacy-focused deposits. Min A$30, max A$6,500. Available at convenience stores, newsagents, and supermarkets throughout Australia.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>CoinsPaid Cryptocurrency:<\/strong> Deposit Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Dogecoin (DOGE), and USDT (on TRC20, ERC20 networks) with instant confirmations. Crypto deposits are processed directly without conversion, making Richard Casino crypto-native for Australian players who prefer blockchain payments.<\/li>\n<\/ul>\n\n<h3>How Long Do Withdrawals Take for Australian Players?<\/h3>\n\n<p>Withdrawals at Richard Casino process quickly, with most digital wallet and cryptocurrency withdrawals completing within minutes to a few hours. For Australian players making their first withdrawal, KYC (Know Your Customer) identity verification is required — this involves submitting a valid Australian photo ID (driver's licence or passport) and proof of address. KYC verification is typically completed within 24 hours by our dedicated compliance team. Once verified, subsequent withdrawals process even faster. Weekly withdrawal limits are A$13,000 for standard players and A$65,000+ for VIP account holders, with monthly caps of A$39,000 standard and significantly higher limits for our highest loyalty tiers.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #ca9644;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #0b3024;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$26<\/td>\n    <\/tr>\n    <tr style=\"background-color: #114132;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>MiFinity<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$13<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0b3024;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>CoinsPaid<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$26<\/td>\n    <\/tr>\n    <tr style=\"background-color: #114132;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bank Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">3–5 days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$130<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Welcome Bonus — Up to A$5,000 + 300 Free Spins for New Aussie Players<\/h3>\n\n<p>Our welcome bonus package is one of the most generous available to Australian online casino players, delivering up to A$5,000 in bonus credits plus 300 free spins across your first five deposits. No bonus code is required — simply register, make your first deposit of at least A$30, and your bonus credits activate automatically within minutes. The standard wagering requirement is 40x the bonus amount, which applies within 90 days of claiming. Maximum bet while playing with active bonus funds is A$10 per spin or hand. Free spins are typically awarded on featured Pragmatic Play pokies with a value of A$0.10 per spin.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>1st Deposit Bonus:<\/strong> 100% match up to A$1,000 + 100 free spins on qualifying pokies. Minimum deposit A$30. Bonus credits credited instantly after deposit confirmation.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>2nd Deposit Bonus:<\/strong> 75% match up to A$750 + 75 free spins. Second deposit must also be minimum A$30 and claimed within the welcome package validity period.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>3rd–5th Deposit Bonuses:<\/strong> Further deposit match bonuses totalling up to A$3,250 + 125 free spins distributed across deposits three through five. Each tier maintains the 40x wagering requirement.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>VIP High-Roller Welcome:<\/strong> Australian players who opt for the VIP welcome package receive larger percentage matches and higher caps on individual deposit bonuses, with a dedicated VIP account manager assigned from day one.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>1,700 Free Spins Loyalty Pack:<\/strong> Eligible players can unlock a total of 1,700 free spins through our ongoing promotions calendar, with an additional 200 free spins bonus gift awarded for claiming all 16 available offers in the series.<\/li>\n<\/ul>\n\n<h3>Weekly Cashback & Ongoing Promotions for Aussie Players<\/h3>\n\n<p>Beyond the welcome bonus, Australian players at Richard Casino benefit from a permanent 3% weekly cashback on net losses, capped at A$7,500 per week. Cashback is calculated every Monday based on the previous week's net gaming activity and credited directly to your account with reduced wagering requirements. Our Tuesday Free Spins promotion awards additional free spins on featured pokies each week, while our birthday bonus delivers a personalised reward to eligible Australian players on their birthday month. The Wheel of Fortune daily spin feature provides additional value with no wagering required on certain prize types. These ongoing promotions are designed to reward active Australian players consistently, not just during the initial signup period.<\/p>\n\n<h3>177-Level VIP Loyalty Program — Rewarding Every AUD Wager<\/h3>\n\n<p>Our 177-level VIP loyalty program is one of the deepest in the Australian online casino market, rewarding every real-money AUD wager with comp points that convert directly into bonus credits, free spins, and premium account benefits. The program is divided into multiple tiers — from entry-level Bronze through to Diamond and beyond — each unlocking additional perks including higher weekly withdrawal limits, reduced wagering requirements on cashback, personalised bonus offers, priority customer support, dedicated account managers, and invitations to exclusive Richard Casino events. For Australian high-roller players who regularly wager substantial amounts, our top VIP tiers offer truly elite privileges that transform the online casino experience from transactional to genuinely rewarding. Progress through tiers is automatic based on accumulated comp points, with no manual application required.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Comp Points System:<\/strong> Earn comp points on every AUD wagered across pokies, table games, and live dealer tables. Points exchange rate varies by game category, with pokies typically offering the highest conversion rate per dollar wagered.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Elevated Withdrawal Limits:<\/strong> VIP players at mid-to-high tiers enjoy weekly withdrawal limits significantly higher than the standard A$13,000 cap — enabling smooth cashouts for Australian high-stakes players without multiple requests.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Personal Account Manager:<\/strong> From a certain VIP tier, Australian players receive a dedicated account manager available via direct email and phone, providing customised bonus offers, faster withdrawal processing, and priority dispute resolution.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Exclusive Tournaments Access:<\/strong> Higher VIP tiers grant access to invitation-only tournaments with prize pools restricted to elite players, offering better odds of winning significant AUD prizes compared to open competitions.<\/li>\n<\/ul>\n\n<h3>Account Security & KYC Verification for Australian Players<\/h3>\n\n<p>We take the security of Australian players' accounts and funds extremely seriously. Our platform operates on SSL 256-bit encryption, the same standard used by major Australian banks, protecting every login, deposit, withdrawal, and personal data exchange. Two-factor authentication (2FA) is available to add an additional security layer to your account. For Australian players, KYC identity verification is required before your first withdrawal — submit a copy of your Australian driver's licence or passport plus a recent utility bill or bank statement as proof of address. Our compliance team processes KYC documents within 24 hours on business days, with express processing available for VIP account holders. We comply fully with Curaçao Gaming Control Board anti-money laundering (AML) regulations, maintaining the highest standards of financial integrity for all Australian player accounts.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Is Richard Casino safe and licensed for Australian players?",
+                            "answer": "Yes, Richard Casino is licensed by the Curaçao Gaming Control Board (OGL\/2023\/176\/0095) and secured with SSL 256-bit encryption. All games use certified RNG software verified through provider licences. Australian players can trust our platform for fair, secure real-money gaming backed by a regulated operator with nearly a decade of industry experience.\n"
+                        },
+                        {
+                            "title": "What is the minimum deposit for Australian players?",
+                            "answer": "The minimum deposit at Richard Casino for Australian players is A$30 across all supported payment methods including Visa, Mastercard, Neosurf, Skrill, MiFinity, and cryptocurrency via CoinsPaid. All deposits are fee-free and process instantly. Simply register, choose your payment method, and your funds appear in your casino account within seconds.\n"
+                        },
+                        {
+                            "title": "How do I claim my A$5,000 welcome bonus at Richard Casino?",
+                            "answer": "Register your account, make your first deposit of at least A$30 — no bonus code required. Your welcome bonus credits automatically within minutes. The package totals up to A$5,000 + 300 free spins across five deposits with 40x wagering. Our 24\/7 live chat support assists with any bonus activation questions immediately.\n"
+                        },
+                        {
+                            "title": "What payment methods do you accept for Australian players?",
+                            "answer": "We accept Visa, Mastercard, Maestro, Neosurf, Skrill, MiFinity, Paysafecard, and CoinsPaid cryptocurrency (BTC, ETH, LTC, DOGE, USDT) for Australian players. All deposits are fee-free with instant processing. Withdrawals are available via Skrill, MiFinity, CoinsPaid, and bank transfer, with e-wallets processing instantly.\n"
+                        },
+                        {
+                            "title": "How long do casino withdrawals take for Aussie players?",
+                            "answer": "E-wallet withdrawals via Skrill and MiFinity process instantly after approval. CoinsPaid cryptocurrency withdrawals also complete within minutes. Bank transfers take 3–5 business days. First-time withdrawals require KYC identity verification using your Australian ID, typically completed within 24 hours by our compliance team.\n"
+                        },
+                        {
+                            "title": "Can I play pokies on mobile in Australia?",
+                            "answer": "Yes, Richard Casino is fully optimised for mobile play on all Australian iOS and Android devices via your browser — no app download needed. All 7,000+ pokies, live dealer tables, and account features including AUD deposits, withdrawals, and live chat support work perfectly on mobile over 4G and 5G networks across Australia.\n"
+                        },
+                        {
+                            "title": "What is the 3% weekly cashback offer for Australian players?",
+                            "answer": "Our 3% weekly cashback rewards Australian players on net losses every week, credited each Monday with a cap of A$7,500. Cashback is automatically calculated and credited to your account with reduced wagering requirements. No opt-in required — it applies automatically to all active Australian players as a standing promotion.\n"
+                        },
+                        {
+                            "title": "Does Richard Casino have a VIP program for loyal players?",
+                            "answer": "Our 177-level VIP loyalty program rewards every AUD wagered with comp points redeemable for bonus credits and free spins. Higher tiers unlock dedicated account managers, elevated withdrawal limits, personalised bonuses, and exclusive tournament access. Progress is automatic — every wager on pokies, live tables, and card games earns your next tier.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
